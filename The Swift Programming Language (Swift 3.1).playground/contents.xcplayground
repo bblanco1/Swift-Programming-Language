@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='rendered'>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
         <page name='The Swift Programming Language (Swift 3.1)'/>
         <page name='The Basics'/>
+        <page name='Basic Operators'/>
+        <page name='Strings and Characters'/>
+        <page name='Collection Types'/>
+        <page name='Control Flow'/>
+        <page name='Functions'/>
+        <page name='Closures'/>
+        <page name='Enumerations'/>
+        <page name='Classes and Structs'/>
+        <page name='Properties'/>
+        <page name='Methods'/>
+        <page name='Subscripts'/>
     </pages>
 </playground>
