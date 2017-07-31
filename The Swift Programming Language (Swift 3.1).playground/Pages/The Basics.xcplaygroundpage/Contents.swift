@@ -100,3 +100,23 @@ print("The current value of friendlyWelcome is \(friendlyWelcome)")
  */
 
 let cat = "🐱"; print(cat)
+
+/*:
+ ### Integers
+ 
+ *Integers* are whole numbers with no fractional component
+ 
+ **Integer Bounds**
+ */
+
+let minValue = UInt8.min // minValue == 0, and is of type UInt8
+
+let maxValue = UInt8.max // maxValue ==, and is of type UInt8
+
+/*:
+ **Int**
+ */
+
+
+
+
